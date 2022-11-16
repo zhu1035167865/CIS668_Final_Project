@@ -24,6 +24,7 @@ https://www.kaggle.com/datasets/christopherlemke/philosophical-texts
 
 
 Setup
+
 1.Download the nietzsche.txt and sentences.csv files from https://www.kaggle.com/datasets/christopherlemke/philosophical-texts
 and upload the files in both question-generator.ipynb and PhilosopherBot.ipynb
 
