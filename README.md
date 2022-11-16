@@ -21,3 +21,14 @@ Dataset
 In order to test this algorithm I prepared a dataset containing a list of paragraphs from F. Nietzsche. The original dataset 'nietzsche.txt' is publicly availabe on Kaggle:
 
 https://www.kaggle.com/datasets/christopherlemke/philosophical-texts
+
+
+Setup
+1.Download the nietzsche.txt and sentences.csv files from https://www.kaggle.com/datasets/christopherlemke/philosophical-texts
+and upload the files in both question-generator.ipynb and PhilosopherBot.ipynb
+
+2. Run the question-generator.ipynb first, then download the output files config.json and pytorch_model.bin
+
+3. Upload those files from step 2 to PhilosopherBot.ipynb.
+
+4. Run the PhilosopherBot.ipynb.
